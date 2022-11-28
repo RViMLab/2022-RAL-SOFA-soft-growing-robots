@@ -25,8 +25,8 @@ During the compilation in the CMake-GUI you need to add the [SofaPython3 plugin]
 
 **Summary**:
 
-1. Compile SOFA from source code, we recommend the latest stable version from SOFA (current v22.06 by Nov 22).
-1. Fetch and add the SofaPython3 on the CMake-Gui 
+1. Compile SOFA from source code, we recommend the latest stable version from SOFA (current v22.06 by Nov 22)
+1. Fetch and add the SofaPython3 plugin on the CMake-Gui
 1. Follow the instructions on the [README](SofaMAMMOBOT/README.md) to add the **SofaMAMMOBOT** plugin
 1. Configure and generate the project
 1. Compile SOFA and type runSofa on the terminal to check that the installation is successful
