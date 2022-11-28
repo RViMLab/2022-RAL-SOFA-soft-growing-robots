@@ -8,7 +8,9 @@ Link to the paper: **Coming soon**
 *Navigation scenes for different environments of our implementation of the MAMMOBOT robotic system into SOFA Framework. The first image shows a workspace forms of rigid pegs and the second image shows a navigation through the mammary duct.*
 
 >[**Towards a High-Fidelity Model for Steerable Eversion Growing Robots**](),
+>
 >[Zicong Wu](https://rvim.online/author/zicong-wu/), [Mikel De Iturrate Reyzabal](https://kclpure.kcl.ac.uk/portal/en/persons/mikel-de-iturrate-reyzabal(54d8acc4-29b6-4ea6-855c-3d25077e13f4).html), [S.M.Hadi Sadati](https://rvim.online/author/s.m.hadi-sadati/), [Hongbin Liu](http://kclhammerlab.com/people/hongbin-liu/), [Sebastien Ourselin](https://www.kcl.ac.uk/people/sebastien-ourselin), [Daniel Leff](https://www.imperial.ac.uk/people/d.leff), [Robert K.Katzschmann](https://srl.ethz.ch/the-group/prof-robert-katzschmann.html), [Kawal Rhode](https://kclpure.kcl.ac.uk/portal/kawal.rhode.html), and [Christos Bergeles](https://rvim.online/author/christos-bergeles/)
+>
 >*RA-L 2023 ([paper]())*
 
 ## Log
