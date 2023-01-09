@@ -11,7 +11,7 @@ Link to the paper: **Coming soon**
 >
 >[Zicong Wu](https://rvim.online/author/zicong-wu/), [Mikel De Iturrate Reyzabal](https://kclpure.kcl.ac.uk/portal/en/persons/mikel-de-iturrate-reyzabal(54d8acc4-29b6-4ea6-855c-3d25077e13f4).html), [S.M.Hadi Sadati](https://rvim.online/author/s.m.hadi-sadati/), [Hongbin Liu](http://kclhammerlab.com/people/hongbin-liu/), [Sebastien Ourselin](https://www.kcl.ac.uk/people/sebastien-ourselin), [Daniel Leff](https://www.imperial.ac.uk/people/d.leff), [Robert K.Katzschmann](https://srl.ethz.ch/the-group/prof-robert-katzschmann.html), [Kawal Rhode](https://kclpure.kcl.ac.uk/portal/kawal.rhode.html), [Christos Bergeles](https://rvim.online/author/christos-bergeles/)
 >
->*RA-L 2023 ([paper]())*
+>*RA-L 2023 ([paper](https://ieeexplore.ieee.org/document/10008022))*
 
 ## Log
 * Added latest mesh and physical parameters of the soft growing robot
@@ -43,6 +43,13 @@ This project utilizes [SOFA](https://www.sofa-framework.org/) and the official p
 
 ## Citation
 If you found the paper of code useful please cite the following:
-
-**Coming soon**
+@ARTICLE{10008022,
+  author={Wu, Zicong and Reyzabal, Mikel De Iturrate and Sadati, S.M.Hadi and Liu, Hongbin and Ourselin, Sebastien and Leff, Daniel and Katzschmann, Robert K. and Rhode, Kawal and Bergeles, Christos},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Towards a Physics-Based Model for Steerable Eversion Growing Robots}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/LRA.2023.3234823}}
 
