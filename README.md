@@ -41,21 +41,16 @@ This project utilizes [SOFA](https://www.sofa-framework.org/) and the official p
 
 ## Citation
 If you found the paper of code useful please cite the following:
->@ARTICLE{10008022,
->
->author={Wu, Zicong and Reyzabal, Mikel De Iturrate and Sadati, S.M.Hadi and Liu, Hongbin and Ourselin, Sebastien and Leff, Daniel and Katzschmann, Robert K. and Rhode, Kawal and Bergeles, Christos},
->
->journal={IEEE Robotics and Automation Letters},
->
->title={Towards a Physics-Based Model for Steerable Eversion Growing Robots},
->
->year={2023},
->
->volume={},
->
->number={},
->
->pages={1-8},
->
->doi={10.1109/LRA.2023.3234823}}
+
+```
+@ARTICLE{10008022,
+author={Wu, Zicong and Reyzabal, Mikel De Iturrate and Sadati, S.M.Hadi and Liu, Hongbin and Ourselin, Sebastien and Leff, Daniel and Katzschmann, Robert K. and Rhode, Kawal and Bergeles, Christos},
+journal={IEEE Robotics and Automation Letters},
+title={Towards a Physics-Based Model for Steerable Eversion Growing Robots},
+year={2023},
+volume={},
+number={},
+pages={1-8},
+doi={10.1109/LRA.2023.3234823}}
+```
 
