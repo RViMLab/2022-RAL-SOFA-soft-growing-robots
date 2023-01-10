@@ -1,13 +1,11 @@
 # 2022-RAL-SOFA-soft-growing-robots
-Implementation of "Towards a High-Fidelity Model for Steerable Eversion Growing Robots" to appear on RA-L (Robot and Automation Letter) 2023.
-
-Link to the paper: **Coming soon**
+Implementation of "Towards a Physics-Based Model for Steerable Eversion Growing Robots" to appear on RA-L (Robot and Automation Letter) 2023.
 
 ![fig](imgs/pegs-snapshot.png "Duct navigation of the simulated MAMMOBOT")
 ![fig](imgs/ducts-snapshot.png)
 *Navigation scenes for different environments of our implementation of the MAMMOBOT robotic system into SOFA Framework. The first image shows a workspace forms of rigid pegs and the second image shows a navigation through the mammary duct.*
 
-><font size = 4>[**Towards a High-Fidelity Model for Steerable Eversion Growing Robots**]()</font>,
+><font size = 4>[**Towards a Physics-Based Model for Steerable Eversion Growing Robots**]()</font>,
 >
 >[Zicong Wu](https://rvim.online/author/zicong-wu/), [Mikel De Iturrate Reyzabal](https://kclpure.kcl.ac.uk/portal/en/persons/mikel-de-iturrate-reyzabal(54d8acc4-29b6-4ea6-855c-3d25077e13f4).html), [S.M.Hadi Sadati](https://rvim.online/author/s.m.hadi-sadati/), [Hongbin Liu](http://kclhammerlab.com/people/hongbin-liu/), [Sebastien Ourselin](https://www.kcl.ac.uk/people/sebastien-ourselin), [Daniel Leff](https://www.imperial.ac.uk/people/d.leff), [Robert K.Katzschmann](https://srl.ethz.ch/the-group/prof-robert-katzschmann.html), [Kawal Rhode](https://kclpure.kcl.ac.uk/portal/kawal.rhode.html), [Christos Bergeles](https://rvim.online/author/christos-bergeles/)
 >
@@ -43,13 +41,21 @@ This project utilizes [SOFA](https://www.sofa-framework.org/) and the official p
 
 ## Citation
 If you found the paper of code useful please cite the following:
-@ARTICLE{10008022,
-  author={Wu, Zicong and Reyzabal, Mikel De Iturrate and Sadati, S.M.Hadi and Liu, Hongbin and Ourselin, Sebastien and Leff, Daniel and Katzschmann, Robert K. and Rhode, Kawal and Bergeles, Christos},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={Towards a Physics-Based Model for Steerable Eversion Growing Robots}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-8},
-  doi={10.1109/LRA.2023.3234823}}
+>@ARTICLE{10008022,
+>
+>author={Wu, Zicong and Reyzabal, Mikel De Iturrate and Sadati, S.M.Hadi and Liu, Hongbin and Ourselin, Sebastien and Leff, Daniel and Katzschmann, Robert K. and Rhode, Kawal and Bergeles, Christos},
+>
+>journal={IEEE Robotics and Automation Letters},
+>
+>title={Towards a Physics-Based Model for Steerable Eversion Growing Robots},
+>
+>year={2023},
+>
+>volume={},
+>
+>number={},
+>
+>pages={1-8},
+>
+>doi={10.1109/LRA.2023.3234823}}
 
